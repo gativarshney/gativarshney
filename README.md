@@ -1,6 +1,6 @@
 # Hi, I'm Gati! 👩‍💻
 
-I'm a passionate software engineer focused on Full-Stack Development, DSA. 💻
+I'm a passionate software engineer focused on Full-Stack Development & DSA. 💻
 
 ## 🏆 LeetCode Profile:
 Check out my LeetCode profile: [Gati's LeetCode](https://leetcode.com/u/GatiVarshney/)
