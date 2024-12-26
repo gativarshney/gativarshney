@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chokokutai&weight=900&size=30&pause=1000&color=F0E68C&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Gati+Varshney;I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chokokutai&weight=900&size=30&pause=500&color=F0E68C&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Gati+Varshney)](https://git.io/typing-svg)
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
