@@ -2,6 +2,7 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
+<br>
 <h2 align="center">
   Let's Connect!
 </h2>
@@ -23,7 +24,7 @@
     <img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="GatiVarshney YouTube" height="60" width="60" />
   </a>
 </p>
-
+</br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 
@@ -31,7 +32,7 @@
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/GatiVarshney?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
+<br>
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <table width="100%" align="center">
 <tr>
@@ -40,6 +41,9 @@
 </td>
 </tr>
 </table>
+</h2>
+</h2>
+</br>
 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=gativarshney&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -59,3 +63,6 @@
 - DSA practice on LeetCode
 
 Feel free to reach out if you'd like to collaborate! 😄
+
+
+<br/><br/>
