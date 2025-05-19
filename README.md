@@ -54,15 +54,6 @@
 <br> </br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <br> </br>
-## 🏆 GitHub Trophies:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gativarshney" alt="gativarshney" /></a>
-</p>
-
-
-<br> </br>
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-<br> </br>
 
 ## 🚀 Currently working on:
 - Full-Stack Web Development
