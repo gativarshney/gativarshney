@@ -28,9 +28,11 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 
-<h2 align="center">Leetcode Info<h2> 
+<h2 align="center">LeetCode Info</h2>
 <p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/GatiVarshney?theme=dark&font=Nunito&ext=heatmap" />  
+  <img src="https://leetcard.jacoblin.cool/GatiVarshney?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" width="450"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=GatiVarshney&theme=black" alt="LeetCode Badges" width="350"/>
 </p>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
