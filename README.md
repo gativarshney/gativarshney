@@ -16,10 +16,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GatiVarshney" height="50" width="60" />
   </a> 
   &nbsp; &nbsp;
-  <a href="https://github.com/GatiVarshney" target="_blank">
-    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GatiVarshney" height="50" width="60" />
-  </a>
-  &nbsp; &nbsp;
   <a href="https://www.youtube.com/@GatiVarshney" target="_blank">
     <img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="GatiVarshney YouTube" height="60" width="60" />
   </a>
