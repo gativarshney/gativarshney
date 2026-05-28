@@ -24,16 +24,6 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<h2 align="center">🦈 GitHub Achievement</h2>
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
-  <br/>
-  <i>Verified Open Source Contributor</i>
-</p>
-
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
 <h2 align="center">📊 LeetCode Info</h2>
 
 <p align="center">
