@@ -1,0 +1,81 @@
+{
+ "username": "GatiVarshney",
+ "ranking": 95739,
+ "solved": {
+  "All": 694,
+  "Easy": 294,
+  "Medium": 346,
+  "Hard": 54
+ },
+ "totals": {
+  "All": 4003,
+  "Easy": 956,
+  "Medium": 2091,
+  "Hard": 956
+ },
+ "contest": {
+  "rating": 1925,
+  "top_percent": 3.95,
+  "attended": 11,
+  "badge": "Knight"
+ },
+ "badges": [
+  {
+   "name": "Knight",
+   "displayName": "Knight",
+   "icon": "/static/images/badges/knight.png",
+   "creationDate": "2026-07-16"
+  },
+  {
+   "name": "Submission Badge",
+   "displayName": "365 Days Badge",
+   "icon": "https://assets.leetcode.com/static_assets/marketing/lg365.png",
+   "creationDate": "2026-05-24"
+  },
+  {
+   "name": "Annual Badge",
+   "displayName": "200 Days Badge 2026",
+   "icon": "https://assets.leetcode.com/static_assets/others/200_1080_1080.png",
+   "creationDate": "2026-07-19"
+  },
+  {
+   "name": "Annual Badge",
+   "displayName": "100 Days Badge 2026",
+   "icon": "https://assets.leetcode.com/static_assets/others/100_1080_1080.png",
+   "creationDate": "2026-04-10"
+  },
+  {
+   "name": "Annual Badge",
+   "displayName": "50 Days Badge 2026",
+   "icon": "https://assets.leetcode.com/static_assets/others/50_1080_1080.png",
+   "creationDate": "2026-02-19"
+  },
+  {
+   "name": "Annual Badge",
+   "displayName": "200 Days Badge 2025",
+   "icon": "https://assets.leetcode.com/static_assets/others/lg200.png",
+   "creationDate": "2025-12-31"
+  },
+  {
+   "name": "Annual Badge",
+   "displayName": "100 Days Badge 2025",
+   "icon": "https://assets.leetcode.com/static_assets/others/lg25100.png",
+   "creationDate": "2025-09-22"
+  },
+  {
+   "name": "Annual Badge",
+   "displayName": "50 Days Badge 2025",
+   "icon": "https://assets.leetcode.com/static_assets/others/lg2550.png",
+   "creationDate": "2025-05-19"
+  }
+ ],
+ "calendar": {
+  "max_streak": 308,
+  "active_days": 330,
+  "active_years": [
+   2024,
+   2025,
+   2026
+  ]
+ }
+}
