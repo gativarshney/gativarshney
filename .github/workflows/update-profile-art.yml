@@ -26,7 +26,14 @@ jobs:
       - run: python scripts/fetch_leetcode.py && python scripts/render_leetcode_svg.py
         continue-on-error: true
       - run: python scripts/render_streak_cards.py
+      # Contribution snake (generated in our own Actions, committed to the
+      # repo; nothing external at view time).
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: gativarshney
+          outputs: dist/github-snake.svg?color_snake=%233fb950&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+        continue-on-error: true
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg data/leetcode.json leetcode-card.svg leetcode-streak.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg data/leetcode.json leetcode-card.svg leetcode-streak.svg dist/github-snake.svg"

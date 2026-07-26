@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img src="./name-header.svg" width="860" alt="Terminal line typing: hi, I'm gati varshney" />
+
 <br><br>
 
 <h3><code>gativarshney@github:~$ whoami</code></h3>
@@ -53,5 +55,11 @@
 <h3><code>gativarshney@github:~$ cat contact.txt</code></h3>
 
 <a href="https://www.linkedin.com/in/gativarshney/"><img src="./badges/linkedin.svg" alt="LinkedIn profile" /></a>&nbsp;<a href="https://leetcode.com/u/GatiVarshney/"><img src="./badges/leetcode.svg" alt="LeetCode profile" /></a>&nbsp;<a href="mailto:gativarshney01@gmail.com"><img src="./badges/email.svg" alt="Email Gati" /></a>
+
+<br><br>
+
+<h3><code>gativarshney@github:~$ python3 snake.py</code></h3>
+
+<img src="./dist/github-snake.svg" width="860" alt="Snake eating my GitHub contribution graph, regenerated daily" />
 
 <br><br>
