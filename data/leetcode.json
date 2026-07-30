@@ -1,11 +1,11 @@
 {
  "username": "GatiVarshney",
- "ranking": 94312,
+ "ranking": 94402,
  "solved": {
-  "All": 696,
-  "Easy": 295,
+  "All": 698,
+  "Easy": 296,
   "Medium": 347,
-  "Hard": 54
+  "Hard": 55
  },
  "totals": {
   "All": 4005,
@@ -70,8 +70,8 @@
   }
  ],
  "calendar": {
-  "max_streak": 310,
-  "active_days": 332,
+  "max_streak": 312,
+  "active_days": 334,
   "active_years": [
    2024,
    2025,
