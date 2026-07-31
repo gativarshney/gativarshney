@@ -1,10 +1,10 @@
 {
  "username": "GatiVarshney",
- "ranking": 94402,
+ "ranking": 93802,
  "solved": {
-  "All": 698,
+  "All": 699,
   "Easy": 296,
-  "Medium": 347,
+  "Medium": 348,
   "Hard": 55
  },
  "totals": {
@@ -15,7 +15,7 @@
  },
  "contest": {
   "rating": 1925,
-  "top_percent": 3.95,
+  "top_percent": 3.96,
   "attended": 11,
   "badge": "Knight"
  },
@@ -67,11 +67,17 @@
    "displayName": "50 Days Badge 2025",
    "icon": "https://assets.leetcode.com/static_assets/others/lg2550.png",
    "creationDate": "2025-05-19"
+  },
+  {
+   "name": "Daily Coding Challenge",
+   "displayName": "Jul LeetCoding Challenge",
+   "icon": "/static/images/badges/dcc-2026-7.png",
+   "creationDate": "2026-07-31"
   }
  ],
  "calendar": {
-  "max_streak": 312,
-  "active_days": 334,
+  "max_streak": 313,
+  "active_days": 335,
   "active_years": [
    2024,
    2025,
