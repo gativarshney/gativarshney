@@ -1,7 +1,7 @@
 {
  "username": "gativarshney",
- "fetched": "2026-08-24",
- "total": 389,
+ "fetched": "2026-08-25",
+ "total": 390,
  "best_day": {
   "date": "2026-07-28",
   "level": 4,
@@ -1402,7 +1402,7 @@
   },
   {
    "date": "2026-05-29",
-   "level": 3,
+   "level": 2,
    "count": 7
   },
   {
@@ -1567,7 +1567,7 @@
   },
   {
    "date": "2026-07-01",
-   "level": 4,
+   "level": 3,
    "count": 10
   },
   {
@@ -1838,7 +1838,12 @@
   {
    "date": "2026-08-24",
    "level": 4,
-   "count": 13
+   "count": 14
+  },
+  {
+   "date": "2026-08-25",
+   "level": 0,
+   "count": 0
   }
  ]
 }
