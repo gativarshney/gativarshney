@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./gati-ascii.svg" width="370" alt="Self-typing ASCII portrait of Gati Varshney" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Terminal info card: GSoC 2026 contributor at The Linux Foundation, 13 merged PRs at OpenPrinting, Winter of Code 5.0 top 20, LeetCode Knight" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Terminal info card: completed GSoC 2026 with The Linux Foundation, 15+ merged PRs at OpenPrinting, Winter of Code 5.0 top 20, LeetCode Knight" /></td>
   </tr>
 </table>
 
@@ -23,7 +23,11 @@
 
 <h3><code>gativarshney@github:~$ ls ~/open-source</code></h3>
 
-<a href="https://summerofcode.withgoogle.com/programs/2026/projects/k0bZOR1y"><img src="./badges/gsoc.svg" alt="GSoC 2026 project page" /></a>&nbsp;<a href="https://github.com/OpenPrinting/openprinting.github.io/commits?author=gativarshney"><img src="./badges/openprinting.svg" alt="13 authored commits in the OpenPrinting production repo" /></a>&nbsp;<a href="https://openprinting.github.io/hall-of-fame"><img src="./badges/hall-of-fame.svg" alt="OpenPrinting Hall of Fame listing" /></a>&nbsp;<a href="./WOC_Certificate.png"><img src="./badges/woc.svg" alt="Winter of Code 5.0 Top 20 certificate" /></a>
+<a href="https://summerofcode.withgoogle.com/programs/2026/projects/k0bZOR1y"><img src="./badges/gsoc.svg" alt="GSoC 2026 project page" /></a>&nbsp;<a href="https://medium.com/@gativarshney/gsoc-2026-final-report-ai-driven-printer-compatibility-recommendation-portal-9283d6fe2a5c"><img src="./badges/gsoc-report.svg" alt="GSoC 2026 final report on Medium" /></a>&nbsp;<a href="./GSoC_Certificate.jpg"><img src="./badges/gsoc-cert.svg" alt="GSoC 2026 completion certificate, signed by the program manager at Google" /></a>
+
+<br>
+
+<a href="https://github.com/OpenPrinting/openprinting.github.io/commits?author=gativarshney"><img src="./badges/openprinting.svg" alt="Authored commits in the OpenPrinting production repo" /></a>&nbsp;<a href="https://openprinting.github.io/hall-of-fame"><img src="./badges/hall-of-fame.svg" alt="OpenPrinting Hall of Fame listing" /></a>&nbsp;<a href="./WOC_Certificate.png"><img src="./badges/woc.svg" alt="Winter of Code 5.0 Top 20 certificate" /></a>
 
 <br><br>
 
@@ -48,7 +52,15 @@
 
 <h3><code>gativarshney@github:~$ ls ~/projects</code></h3>
 
-<a href="https://github.com/gativarshney/interview-ai"><img src="./badges/interview-copilot.svg" alt="Interview Copilot repository" /></a>&nbsp;<a href="https://interview-copilot-ai-iota.vercel.app"><img src="./badges/ic-live.svg" alt="Interview Copilot live demo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/gativarshney/mysterymessage"><img src="./badges/mystery-message.svg" alt="Mystery Message repository" /></a>&nbsp;<a href="https://mysterymessage-eta.vercel.app"><img src="./badges/mm-live.svg" alt="Mystery Message live demo" /></a>
+<a href="https://github.com/gativarshney/cidx"><img src="./badges/cidx.svg" alt="cidx: local code indexing for AI coding assistants using Tree-sitter, SQLite, and MCP" /></a>
+
+<br>
+
+<a href="https://github.com/gativarshney/interview-ai"><img src="./badges/interview-copilot.svg" alt="Interview Copilot repository" /></a>&nbsp;<a href="https://interview-copilot-ai-iota.vercel.app"><img src="./badges/ic-live.svg" alt="Interview Copilot live demo" /></a>
+
+<br>
+
+<a href="https://github.com/gativarshney/mysterymessage"><img src="./badges/mystery-message.svg" alt="Mystery Message repository" /></a>&nbsp;<a href="https://mysterymessage-eta.vercel.app"><img src="./badges/mm-live.svg" alt="Mystery Message live demo" /></a>
 
 <br><br>
 

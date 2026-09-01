@@ -23,12 +23,15 @@ H = 38
 # (filename, label)
 BADGES = [
     ("gsoc", "gsoc '26"),
+    ("gsoc-report", "gsoc final report"),
+    ("gsoc-cert", "gsoc certificate"),
     ("openprinting", "openprinting commits"),
     ("hall-of-fame", "hall of fame"),
     ("woc", "woc 5.0 top 20"),
     ("linkedin", "linkedin"),
     ("leetcode", "leetcode"),
     ("email", "email"),
+    ("cidx", "cidx"),
     ("interview-copilot", "interview-copilot"),
     ("ic-live", "live demo"),
     ("mystery-message", "mystery-message"),

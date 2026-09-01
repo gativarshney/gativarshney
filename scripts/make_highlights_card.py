@@ -30,9 +30,10 @@ W = 860
 TITLE = "gativarshney@github: ~/highlights.txt"
 
 LINES = [
-    "GSoC 2026 @ The Linux Foundation: AI printer-recommendation portal for OpenPrinting",
-    "13 commits live in production on the OpenPrinting site: search, migration, homepage",
+    "GSoC 2026, completed: AI printer-recommendation portal @ The Linux Foundation",
+    "15+ merged PRs live in production on OpenPrinting: search, migration, homepage",
     "Winter of Code 5.0: Top 20 contributor out of 2800+ participants",
+    "cidx: local code indexing for AI assistants with Tree-sitter, SQLite, and MCP",
     "Interview Copilot: AI interview-prep reports from your resume and a job description",
     "Mystery Message: anonymous messaging with OTP-gated, rate-limited public links",
 ]
