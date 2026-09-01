@@ -8,10 +8,10 @@
   "Hard": 57
  },
  "totals": {
-  "All": 4041,
+  "All": 4042,
   "Easy": 962,
   "Medium": 2109,
-  "Hard": 970
+  "Hard": 971
  },
  "contest": {
   "rating": 1925,
@@ -77,7 +77,7 @@
  ],
  "calendar": {
   "max_streak": 335,
-  "active_days": 349,
+  "active_days": 348,
   "active_years": [
    2024,
    2025,
