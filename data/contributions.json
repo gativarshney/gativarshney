@@ -1,14 +1,14 @@
 {
  "username": "gativarshney",
- "fetched": "2026-09-01",
- "total": 432,
+ "fetched": "2026-09-02",
+ "total": 433,
  "best_day": {
   "date": "2026-07-28",
   "level": 4,
   "count": 37
  },
- "longest_streak": 39,
- "current_streak": 39,
+ "longest_streak": 40,
+ "current_streak": 40,
  "days": [
   {
    "date": "2025-08-31",
@@ -1842,6 +1842,11 @@
   },
   {
    "date": "2026-09-01",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-09-02",
    "level": 1,
    "count": 1
   }
