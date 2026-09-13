@@ -1,50 +1,15 @@
 {
  "username": "gativarshney",
- "fetched": "2026-09-12",
- "total": 460,
+ "fetched": "2026-09-13",
+ "total": 458,
  "best_day": {
   "date": "2026-07-28",
   "level": 4,
   "count": 37
  },
- "longest_streak": 49,
- "current_streak": 49,
+ "longest_streak": 50,
+ "current_streak": 50,
  "days": [
-  {
-   "date": "2025-09-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-08",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-09",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-10",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-11",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-13",
-   "level": 1,
-   "count": 3
-  },
   {
    "date": "2025-09-14",
    "level": 0,
@@ -1862,6 +1827,11 @@
   },
   {
    "date": "2026-09-12",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-09-13",
    "level": 0,
    "count": 0
   }
