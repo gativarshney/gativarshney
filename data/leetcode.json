@@ -1,10 +1,10 @@
 {
  "username": "GatiVarshney",
- "ranking": 83827,
+ "ranking": 83579,
  "solved": {
-  "All": 742,
+  "All": 743,
   "Easy": 311,
-  "Medium": 373,
+  "Medium": 374,
   "Hard": 58
  },
  "totals": {
@@ -76,7 +76,7 @@
   }
  ],
  "calendar": {
-  "max_streak": 334,
+  "max_streak": 333,
   "active_days": 343,
   "active_years": [
    2024,
