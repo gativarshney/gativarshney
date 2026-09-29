@@ -32,6 +32,13 @@ def main() -> None:
         default=None,
         help="crop box as x,y,w,h in source pixels (default: full frame)",
     )
+    ap.add_argument(
+        "--crop-after",
+        default=None,
+        help="second crop as x,y,w,h applied AFTER background removal, "
+             "relative to --crop. Use when a tight face crop makes rembg "
+             "misclassify hair: matte wide, then crop tight.",
+    )
     ap.add_argument("--clahe-clip", type=float, default=2.5)
     args = ap.parse_args()
 
@@ -52,6 +59,10 @@ def main() -> None:
     # Composite the contrast-boosted subject onto pure white.
     out = eq * alpha + 255.0 * (1.0 - alpha)
     out = np.clip(out, 0, 255).astype(np.uint8)
+
+    if args.crop_after:
+        x, y, w, h = (int(v) for v in args.crop_after.split(","))
+        out = out[y:y + h, x:x + w]
 
     cv2.imwrite(args.out, out)
     print(f"wrote {args.out} ({out.shape[1]}x{out.shape[0]})")
