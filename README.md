@@ -10,12 +10,7 @@
 
 <h3><code>gativarshney@github:~$ whoami</code></h3>
 
-<table>
-  <tr>
-    <td valign="top"><img src="./gati-ascii.svg" width="370" alt="Self-typing ASCII portrait of Gati Varshney" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Terminal info card: completed GSoC 2026 with The Linux Foundation, 15+ merged PRs at OpenPrinting, Winter of Code 5.0 top 20, LeetCode Knight" /></td>
-  </tr>
-</table>
+<img src="./info-card.svg" width="560" alt="Terminal info card: completed GSoC 2026 with The Linux Foundation, 15+ merged PRs at OpenPrinting, Winter of Code 5.0 top 20, LeetCode Knight" />
 
 <br>
 
