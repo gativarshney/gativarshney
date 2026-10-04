@@ -33,9 +33,8 @@ LINES = [
     "GSoC 2026, completed: AI printer-recommendation portal @ The Linux Foundation",
     "15+ merged PRs live in production on OpenPrinting: search, migration, homepage",
     "Winter of Code 5.0: Top 20 contributor out of 2800+ participants",
-    "cidx: local code indexing for AI assistants with Tree-sitter, SQLite, and MCP",
-    "Interview Copilot: AI interview-prep reports from your resume and a job description",
-    "Mystery Message: anonymous messaging with OTP-gated, rate-limited public links",
+    "Contributable: contributor reports on any public repo, with evidence behind every answer",
+    "cidx: zero-config local code index for AI coding agents, published on PyPI",
 ]
 
 

@@ -31,11 +31,11 @@ BADGES = [
     ("linkedin", "linkedin"),
     ("leetcode", "leetcode"),
     ("email", "email"),
+    ("contributable", "contributable"),
+    ("contributable-live", "live demo"),
     ("cidx", "cidx"),
-    ("interview-copilot", "interview-copilot"),
-    ("ic-live", "live demo"),
-    ("mystery-message", "mystery-message"),
-    ("mm-live", "live demo"),
+    ("cidx-site", "live site"),
+    ("portfolio", "portfolio"),
 ]
 
 
