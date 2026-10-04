@@ -26,6 +26,22 @@
 
 <br><br>
 
+<h3><code>gativarshney@github:~$ ls ~/projects</code></h3>
+
+<a href="https://github.com/gativarshney/contributable"><img src="./assets/card-contributable.svg" width="640" alt="gativarshney/contributable: know a repository before your first pull request. TypeScript, MIT, 118 tests." /></a>
+
+<a href="https://contributable.vercel.app"><img src="./badges/live.svg" alt="Contributable live demo" /></a>&nbsp;<a href="https://gativarshney.github.io/projects/contributable/"><img src="./badges/case-study.svg" alt="Contributable case study" /></a>
+
+<a href="https://github.com/gativarshney/cidx"><img src="./assets/card-cidx.svg" width="640" alt="gativarshney/cidx: zero-config local code index for AI coding agents. Python, Apache-2.0, 263 tests." /></a>
+
+<a href="https://cidx.vercel.app"><img src="./badges/live.svg" alt="cidx live demo" /></a>&nbsp;<a href="https://pypi.org/project/cidx/"><img src="./badges/pypi.svg" alt="cidx on PyPI" /></a>&nbsp;<a href="https://gativarshney.github.io/projects/cidx/"><img src="./badges/case-study.svg" alt="cidx case study" /></a>
+
+<br>
+
+<a href="https://gativarshney.github.io/"><img src="./badges/portfolio.svg" alt="Full portfolio with case studies" /></a>
+
+<br><br>
+
 <h3><code>gativarshney@github:~$ ./leetcode-stats.sh</code></h3>
 
 <a href="https://leetcode.com/u/GatiVarshney/"><img src="./leetcode-card.svg" width="860" alt="LeetCode stats: Knight badge, 1925 contest rating, top 4 percent, 694 problems solved with Easy, Medium, and Hard breakdown" /></a>
@@ -44,20 +60,6 @@
 
 <br><br>
 
-
-<h3><code>gativarshney@github:~$ ls ~/projects</code></h3>
-
-<a href="https://github.com/gativarshney/contributable"><img src="./badges/contributable.svg" alt="Contributable repository: contributor reports on public GitHub repositories" /></a>&nbsp;<a href="https://contributable.vercel.app"><img src="./badges/contributable-live.svg" alt="Contributable live demo" /></a>
-
-<br>
-
-<a href="https://github.com/gativarshney/cidx"><img src="./badges/cidx.svg" alt="cidx repository: zero-config local code index for AI coding agents" /></a>&nbsp;<a href="https://cidx.vercel.app"><img src="./badges/cidx-site.svg" alt="cidx website" /></a>
-
-<br>
-
-<a href="https://gativarshney.github.io/"><img src="./badges/portfolio.svg" alt="Full portfolio with case studies" /></a>
-
-<br><br>
 
 <h3><code>gativarshney@github:~$ cat contact.txt</code></h3>
 
